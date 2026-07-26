@@ -6,13 +6,7 @@
   </p>
   <h1>ATSBOOSTER</h1>
   <p><strong>Token Grabber & Data Extractor for Windows</strong></p>
-  <p>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dopiiii/ATSBOOSTER">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Dopiiii/ATSBOOSTER">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Dopiiii/ATSBOOSTER">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Dopiiii/ATSBOOSTER">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
-  </p>
+
   <p align="center">
     <a href="#overview">Overview</a> &bull;
     <a href="#features">Features</a> &bull;
